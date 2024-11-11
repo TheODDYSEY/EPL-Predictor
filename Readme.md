@@ -57,8 +57,9 @@ This project aims to predict football match outcomes for English Premier League 
 To run this project locally:
 
 1. Clone the repository:
+```
 git clone https://github.com/TheODDYSEY/EPL-Predictor.git
-
+```
 
 2. Install required libraries:
 ```
